@@ -19,5 +19,3 @@ A repository to host my book recommendation lists
 6.  Conceptual Synthesis:
 
     -   "Conceptual Blockbusting: A Guide to Better Ideas" by James L. Adams. This book is a guide to creative problem-solving and idea generation, which includes the process of conceptual synthesis. It's known for its practical advice and engaging writing style.
-
-Each of these books is considered a standard in its respective field, and they all have a reputation for being both comprehensive and accessible. They cover their topics in depth, provide plenty of examples and exercises, and are written in a clear, understandable style.
